@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[A blog/portfolio/work-in-progress]]></title>
         <description><![CDATA[A blog/portfolio/work-in-progress]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alex-does-stuff-and-things/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 23:50:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 23:51:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alex-does-stuff-and-things/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Well, well, well...]]></title>
             <description><![CDATA[<article><h1>Well, well, well...</h1><p>A portrait of the site owner.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b51e47b-ec41-48ee-a63a-5a3bc09f2e93.jpg"></article>]]></description>
             <link>https://www.facebook.com/AlexCPhotos/</link>
             <guid isPermaLink="false">6daa3114-1471-4baf-80e2-eb5ec703d80e</guid>
-            <pubDate>Wed, 18 Nov 2015 23:50:20 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2015 23:51:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

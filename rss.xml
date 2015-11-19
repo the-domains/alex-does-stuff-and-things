@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Alex Does Stuff (and Things)]]></title>
+        <description><![CDATA[Alex Does Stuff (and Things)]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 Nov 2015 01:55:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Walkway Over The Hudson gallery]]></title>
+            <description><![CDATA[<article><h1>Walkway Over The Hudson gallery</h1><p>At a former train bridge that had been converted and added into a "Rails to Trails" park.</p><img src="https://scontent.xx.fbcdn.net/hphotos-xta1/t31.0-8/s720x720/12185065_1057596370931575_2337427554440746407_o.jpg"></article>]]></description>
+            <link>https://www.facebook.com/media/set/?set=a.1057596347598244.1073741831.347135811977638&amp;type=3</link>
+            <guid isPermaLink="false">c035732f-ca56-45b6-8b60-09e5ab6a0861</guid>
+            <pubDate>Thu, 19 Nov 2015 01:55:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

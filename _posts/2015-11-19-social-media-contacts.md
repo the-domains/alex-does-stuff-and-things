@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In case you want to find me out there on the interwebs!'
-datePublished: '2015-11-19T23:25:33.623Z'
-dateModified: '2015-11-19T23:25:22.990Z'
+datePublished: '2015-11-19T23:29:06.428Z'
+dateModified: '2015-11-19T23:29:03.326Z'
 title: Social Media Contacts
 author: []
+sourcePath: _posts/2015-11-19-social-media-contacts.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-social-media-contacts.md
-published: true
 url: social-media-contacts/index.html
 _type: WebPage
 
 ---
-![These images aren't mine, obviously. I'm borrowing them to have some graphic representation here.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4838d855-271a-499d-8d66-0e00f46e7174.jpg)
-
 If you're looking for me elsewhere on the internet, you can use this handy list to track me down. Mind, some of these I don't keep up to date as well as I should. But I get email notices for all of them, so they're all valid ways to get in touch!
 
 Facebook: [Alex C. Photos][0]

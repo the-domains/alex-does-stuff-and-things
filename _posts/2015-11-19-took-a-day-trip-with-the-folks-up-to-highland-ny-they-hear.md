@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.facebook.com/media/set/?set=a.1057596347598244.1073741831.347135811977638&type=3'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Took a day trip with the folks up to Highland, NY. They heard of a former train bridge that had been converted and added into a "Rails to Trails" park, and the leaves had started changing in my home town. Of course I had to bring the camera.'
-datePublished: '2015-11-19T01:55:30.051Z'
-dateModified: '2015-11-19T01:55:16.847Z'
+datePublished: '2015-11-19T02:05:15.609Z'
+dateModified: '2015-11-19T02:05:13.413Z'
 author:
   - name: Alexander Cole Photography
     url: 'http://facebook.com/347135811977638'
@@ -16,14 +15,15 @@ author:
 related: []
 title: ''
 app_links: []
+sourcePath: _posts/2015-11-19-took-a-day-trip-with-the-folks-up-to-highland-ny-they-hear.md
+published: true
 authors: []
 publisher:
   name: Facebook
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-sourcePath: _posts/2015-11-19-took-a-day-trip-with-the-folks-up-to-highland-ny-they-hear.md
-published: true
+url: took-a-day-trip-with-the-folks-up-to-highland-ny-they-hear/index.html
 _type: Photograph
 _context: 'http://schema.org'
 

@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Took a day trip with the folks up to Highland, NY. They heard of a former train bridge that had been converted and added into a "Rails to Trails" park, and the leaves had started changing in my home town. Of course I had to bring the camera.'
-datePublished: '2015-11-19T02:05:15.609Z'
-dateModified: '2015-11-19T02:05:13.413Z'
+description: "Here's the album from which came the photo in my first post. It's up in Highland/Poughkeepsie, NY. Nice place to wander."
+datePublished: '2015-11-19T02:16:41.770Z'
+dateModified: '2015-11-19T02:16:39.798Z'
 author:
   - name: Alexander Cole Photography
     url: 'http://facebook.com/347135811977638'
     avatar: {}
 related: []
-title: ''
+title: Walkway Over The Hudson gallery
 app_links: []
 sourcePath: _posts/2015-11-19-took-a-day-trip-with-the-folks-up-to-highland-ny-they-hear.md
 published: true

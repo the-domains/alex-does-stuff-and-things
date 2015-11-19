@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In case you want to find me out there on the interwebs!'
-datePublished: '2015-11-19T23:39:26.576Z'
-dateModified: '2015-11-19T23:39:23.180Z'
+datePublished: '2015-11-19T23:41:18.916Z'
+dateModified: '2015-11-19T23:41:03.258Z'
 title: Social Media Contacts
 author: []
 sourcePath: _posts/2015-11-19-social-media-contacts.md
@@ -22,7 +22,7 @@ url: social-media-contacts/index.html
 _type: WebPage
 
 ---
-If you're looking for me elsewhere on the internet, you can use this handy list to track me down. Mind, some of these I don't keep up to date as well as I should. But I get email notices for all of them, so they're all valid ways to get in touch! 
+If you're looking for me elsewhere on the internet, you can use this handy list to track me down. Mind, some of these I don't keep up to date as well as I should. But I get email notices for all of them, so they're all valid ways to get in touch! Each is a clickable link, mind you.
 
 Facebook: [Alex C. Photos][0]
 

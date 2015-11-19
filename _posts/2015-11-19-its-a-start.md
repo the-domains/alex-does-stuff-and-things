@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T07:17:45.680Z'
-dateModified: '2015-11-19T07:16:53.398Z'
+datePublished: '2015-11-19T20:07:17.972Z'
+dateModified: '2015-11-19T20:06:40.659Z'
 title: "It's a start..."
 sourcePath: _posts/2015-11-19-its-a-start.md
 published: true

@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: Does this work properly?
-datePublished: '2015-11-19T02:02:38.174Z'
-dateModified: '2015-11-19T02:00:19.639Z'
+datePublished: '2015-11-19T02:15:45.598Z'
+dateModified: '2015-11-19T02:15:42.786Z'
 title: Navigation Test
+sourcePath: _posts/2015-11-19-navigation-test.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-navigation-test.md
-published: true
 url: navigation-test/index.html
 _type: WebPage
 

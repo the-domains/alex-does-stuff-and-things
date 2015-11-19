@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Here's the album from which came the photo in my first post. It's up in Highland/Poughkeepsie, NY. Nice place to wander."
-datePublished: '2015-11-19T02:31:32.730Z'
-dateModified: '2015-11-19T02:31:29.371Z'
+datePublished: '2015-11-19T02:34:10.177Z'
+dateModified: '2015-11-19T02:34:04.269Z'
 author:
   - name: Alexander Cole Photography
     url: 'http://facebook.com/347135811977638'

@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Here's the album from which came the photo in my first post. It's up in Highland/Poughkeepsie, NY. Nice place to wander."
-datePublished: '2015-11-19T02:24:34.737Z'
-dateModified: '2015-11-19T02:22:40.044Z'
+datePublished: '2015-11-19T02:31:32.730Z'
+dateModified: '2015-11-19T02:31:29.371Z'
 author:
   - name: Alexander Cole Photography
     url: 'http://facebook.com/347135811977638'
@@ -29,3 +29,5 @@ _context: 'http://schema.org'
 
 ---
 ![At a former train bridge that had been converted and added into a "Rails to Trails" park.](https://scontent.xx.fbcdn.net/hphotos-xta1/t31.0-8/s720x720/12185065_1057596370931575_2337427554440746407_o.jpg)
+
+Here's the album from which came the photo in my first post. It's up in Highland/Poughkeepsie, NY. Nice place to wander.

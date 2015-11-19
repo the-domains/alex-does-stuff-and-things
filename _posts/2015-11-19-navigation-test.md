@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Does this work properly?
-datePublished: '2015-11-19T02:00:19.639Z'
-dateModified: '2015-11-19T02:00:09.066Z'
+datePublished: '2015-11-19T02:02:38.174Z'
+dateModified: '2015-11-19T02:00:19.639Z'
 title: Navigation Test
 authors: []
 publisher:

@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Let's see how this works, shall we?"
-datePublished: '2015-11-18T23:51:39.762Z'
-dateModified: '2015-11-18T23:50:20.945Z'
+datePublished: '2015-11-19T00:00:47.853Z'
+dateModified: '2015-11-18T23:51:39.762Z'
 title: 'Well, well, well...'
 authors: []
 publisher:

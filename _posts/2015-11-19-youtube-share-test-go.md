@@ -17,8 +17,8 @@ keywords:
   - periscope
   - younow
 description: John Douglass (JacksFilms on YouTube) is my hero for mocking grammar in this series.
-datePublished: '2015-11-19T07:19:34.064Z'
-dateModified: '2015-11-19T07:12:48.751Z'
+datePublished: '2015-11-19T07:24:09.555Z'
+dateModified: '2015-11-19T07:19:34.064Z'
 author:
   - name: jacksfilms
     url: 'https://www.youtube.com/user/jacksfilms'

@@ -7,17 +7,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T20:07:57.613Z'
-dateModified: '2015-11-19T19:42:53.679Z'
+datePublished: '2015-11-19T20:18:51.358Z'
+dateModified: '2015-11-19T20:18:47.542Z'
 title: "Still testin'"
+sourcePath: _posts/2015-11-19-still-testin.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-still-testin.md
-published: true
 _type: Blurb
 
 ---

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In case you want to find me out there on the interwebs!'
-datePublished: '2015-11-20T00:37:36.364Z'
-dateModified: '2015-11-20T00:37:29.856Z'
+datePublished: '2015-11-20T00:39:08.330Z'
+dateModified: '2015-11-20T00:38:59.349Z'
 title: Social Media Contacts
 author: []
 sourcePath: _posts/2015-11-19-social-media-contacts.md
@@ -34,11 +34,8 @@ Instagram: [al3xcole][3]
 
 Pinterest: [al3xcole][4]
 
-Tumblr: [alexbc][5]
-
 [0]: https://www.facebook.com/AlexCPhotos/
 [1]: https://twitter.com/Al3xCole
 [2]: https://plus.google.com/u/0/+AlexanderCole88/posts
 [3]: https://www.instagram.com/al3xcole/
 [4]: https://www.pinterest.com/al3xcole/
-[5]: http://alexbc.tumblr.com/

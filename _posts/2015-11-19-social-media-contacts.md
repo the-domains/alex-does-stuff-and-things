@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In case you want to find me out there on the interwebs!'
-datePublished: '2015-11-20T00:32:00.571Z'
-dateModified: '2015-11-20T00:31:52.513Z'
+datePublished: '2015-11-20T00:36:01.251Z'
+dateModified: '2015-11-20T00:35:57.823Z'
 title: Social Media Contacts
 author: []
 sourcePath: _posts/2015-11-19-social-media-contacts.md
@@ -33,6 +33,8 @@ Google+: [Alexander Cole ][2]
 Instagram: [al3xcole][3]
 
 Pinterest: [al3xcole][4]
+
+The Grid keeps inserting a phantom space here, so I'm writing text instead!
 
 Tumblr: [alexbc][5]
 

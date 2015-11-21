@@ -4,14 +4,20 @@
         <description><![CDATA[Alex Does Stuff (and Things)]]></description>
         <link>https://thegrid.ai/alex-does-stuff-and-things/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 19:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 19:56:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-does-stuff-and-things/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Day... four?]]></title>
-            <description><![CDATA[<article><h1>Day... four?</h1><p>I skipped a day. I had planned to try something new each day and make a mini-post here. Woops. That'll happen when Battlefront launches and you've been playing Fallout 4 way too much.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20be5385-2dd2-4424-9f02-f1255db73c6e.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Day... four?</h1><p>I skipped a day. I had planned to try something new each day and make a mini-post here. Woops. That'll happen when Battlefront launches and you've been playing Fallout 4 way too much.
+
+The other day, I tried a Navigation/Page post, but I couldn't get the image to work the way I wanted. Same thing as the other day: I was trying to get the text to overlay on the image, but the UI wasn't cooperating. So, as of right now, you can click through the nav at the top to a text-only page with some of my social media accounts.
+
+I'm hoping that, eventually, one is able to add new posts to existing pages. The plan is to create separate pages for a "doin' stuff" blog (gaming, travel, things to do around town) and a photo portfolio. But right now, I don't think I can tell a new draft to, say, add itself to my Social Media page.
+
+Also, Click here for the link to the album for today's photo.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20be5385-2dd2-4424-9f02-f1255db73c6e.gif"></article>]]></description>
             <link>https://thegrid.ai/alex-does-stuff-and-things/day-four/index.html</link>
             <guid isPermaLink="false">e517ce63-3970-4c6e-b3aa-cd4723a6c7ee</guid>
-            <pubDate>Sat, 21 Nov 2015 19:29:55 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2015 19:56:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

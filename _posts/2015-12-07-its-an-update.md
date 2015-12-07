@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-07T04:09:50.467Z'
-dateModified: '2015-12-07T04:09:20.836Z'
+datePublished: '2015-12-07T04:13:55.667Z'
+dateModified: '2015-12-07T04:13:53.250Z'
 title: "It's an update!"
 author: []
+sourcePath: _posts/2015-12-07-its-an-update.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-07-its-an-update.md
-published: true
 _type: Blurb
 
 ---

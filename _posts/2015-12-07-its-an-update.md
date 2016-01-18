@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T21:53:15.574Z'
+datePublished: '2016-01-18T21:53:15.638Z'
 dateModified: '2016-01-18T21:53:12.073Z'
 title: "It's an update!"
 author: []

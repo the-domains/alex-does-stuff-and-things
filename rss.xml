@@ -4,11 +4,18 @@
         <description><![CDATA[Alex Does Stuff (and Things)]]></description>
         <link>https://thegrid.ai/alex-does-stuff-and-things/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 01:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 07:10:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-does-stuff-and-things/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Video shootin'!]]></title>
+            <description><![CDATA[<article><h1>Video shootin'!</h1><p>So today I actually did some shooting for a promotional video I helped write and edit for my friend's latest game prototype. This was interesting, since it was the first time ever that I have shot video. I have a raw blooper clip of me forgetting a line that I'd like to upload here, but I'll settle for linking to it (click here) instead. As for Grid matters, more UI updates. The "add media" button in drafts is now an icon of a landscape (photo frame, mountains). No other concrete updates that I can see. I tweaked my design guidelines again, and plan to publish them when I publish this post. I'll probably edit this text again if I wind up not liking it and reverting to my previous setup. 'Til next time, folks!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cad9ab699320e093b13b961539f98a2a73189c19.jpg"></article>]]></description>
+            <link>https://thegrid.ai/alex-does-stuff-and-things/video-shootin/index.html</link>
+            <guid isPermaLink="false">497b3a0d-13b9-4460-9788-f98d1bf584cb</guid>
+            <pubDate>Sat, 06 Feb 2016 07:09:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Updates 'n' things!]]></title>
-            <description><![CDATA[<article><h1>Updates 'n' things!</h1><p>Alright, take 2 on today's update post. The content guidelines are still the same, as are the options available for each of these posts while they are in draft form (minimal formatting/title/description options). I like how the guidelines allow you to review the changes before publishing them, but that particular UI is a bit garish (solid, bright yellow background). There is a new method for adding images, however. Besides the content-adding Plus sign on the left side of each new line break, there is a specific "Add Image" button that I will be testing with this update. That image will be a recent shot taken from Fort Lee Historic Park, across the Hudson River towards Manhattan. Part of a small shoot you can see in full by clicking here.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b38c9f01-6af1-438e-8e72-938ffbd46db8.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Updates 'n' things!</h1><p>Alright, take 2 on today's update post. The content guidelines are still the same, as are the options available for each of these posts while they are in draft form (minimal formatting/title/description options). I like how the guidelines allow you to review the changes before publishing them, but that particular UI is a bit garish (solid, bright yellow background). There is a new method for adding images, however. Besides the content-adding Plus sign on the left side of each new line break, there is a specific "Add Image" button that I will be testing with this update. That image will be a recent shot taken from Fort Lee Historic Park, across the Hudson River towards Manhattan. Part of a small shoot you can see in full by clicking here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/205812e424dcdcc767ac186794d7a9a4150d18e9.jpg"></article>]]></description>
             <link>https://thegrid.ai/alex-does-stuff-and-things/updates-n-things/index.html</link>
             <guid isPermaLink="false">a897b06e-73c1-44d5-8d14-f45bfad94e4f</guid>
             <pubDate>Tue, 19 Jan 2016 01:47:07 GMT</pubDate>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[YouTube Share Test - Fire Tornado from The Slow Mo Guys]]></title>
-            <description><![CDATA[<article><h1>YouTube Share Test - Fire Tornado from The Slow Mo Guys</h1><p>So it turns out that Grid does video shares by making the title clickable, not the image. I wonder if we'll get an Embed option in the future. Could be cool to actually be able to throw the video here so it's playable! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f0f5b2b594fdd8f7c3f22059122d1c971dfd3a2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>YouTube Share Test - Fire Tornado from The Slow Mo Guys</h1><p>So it turns out that Grid does video shares by making the title clickable, not the image. I wonder if we'll get an Embed option in the future. Could be cool to actually be able to throw the video here so it's playable! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f61e4f376c059abae10b22153ac9dc9d560611b4.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=QwoghxwETng</link>
             <guid isPermaLink="false">b71bb922-f344-4219-a58b-76f62bda8228</guid>
             <pubDate>Mon, 23 Nov 2015 07:19:01 GMT</pubDate>

@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Completely winging it on a shoot for a friend's game."
-datePublished: '2016-02-06T07:16:08.293Z'
-dateModified: '2016-02-06T07:16:02.970Z'
-title: "Video shootin'!"
+datePublished: '2016-02-06T07:22:52.651Z'
+dateModified: '2016-02-06T07:22:50.957Z'
+title: 'Shooting video!'
 author: []
 sourcePath: _posts/2016-02-06-video-shootin.md
 published: true

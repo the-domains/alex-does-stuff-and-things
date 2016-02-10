@@ -4,11 +4,18 @@
         <description><![CDATA[Alex Does Stuff (and Things)]]></description>
         <link>https://thegrid.ai/alex-does-stuff-and-things/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 21:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 21:17:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-does-stuff-and-things/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Still testin']]></title>
+            <description><![CDATA[<article><h1>Still testin'</h1><p>I've determined that I'm not overly fond with how some Shares appear, but I think I still need to fine-tune my "Design" settings in The Grid's UI. Might be able to get something workable out of it. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6156ca41e2ec71a140a68f477b30da007bf01ef6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/alex-does-stuff-and-things/still-testin/index.html</link>
+            <guid isPermaLink="false">22721a08-ac93-46d4-9680-0687631fa5fb</guid>
+            <pubDate>Wed, 10 Feb 2016 21:17:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[It's a start...]]></title>
-            <description><![CDATA[<article><h1>It's a start...</h1><p>Oh, hello, there. My name's Alex and you've reached my site. I'm still exploring the capabilities of The Grid, so this is very much a work in progress. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1563956067819ac8f541bf5f1cc405a30204392d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>It's a start...</h1><p>Oh, hello, there. My name's Alex and you've reached my site. I'm still exploring the capabilities of The Grid, so this is very much a work in progress. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17950bcb87250b84639fed4437bd51e62029d801.jpg"></article>]]></description>
             <link>https://thegrid.ai/alex-does-stuff-and-things/its-a-start/index.html</link>
             <guid isPermaLink="false">1c87668d-de10-4fcb-974c-f9e5d71c1e1d</guid>
             <pubDate>Wed, 10 Feb 2016 21:16:27 GMT</pubDate>

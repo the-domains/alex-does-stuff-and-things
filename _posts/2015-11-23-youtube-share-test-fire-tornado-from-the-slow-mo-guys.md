@@ -17,8 +17,8 @@ keywords:
   - 2500fps
   - 000fps
 description: "Not sure how this'll turn out!"
-datePublished: '2015-11-23T07:19:01.328Z'
-dateModified: '2015-11-23T07:18:58.606Z'
+datePublished: '2016-02-10T21:33:35.594Z'
+dateModified: '2016-02-10T21:33:28.816Z'
 author:
   - name: The Slow Mo Guys
     url: 'https://www.youtube.com/user/theslowmoguys'
@@ -50,4 +50,4 @@ _context: 'http://schema.org'
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQwoghxwETng%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQwoghxwETng&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQwoghxwETng%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
-So it turns out that Grid does video shares by making the title clickable, not the image. I wonder if we'll get an Embed option in the future. Could be cool to actually be able to throw the video here so it's playable!
+So it turns out that Grid does video shares by making the title clickable, not the image. EDIT: Huh. They've updated it! You can now click the image and the video will play right on the page. Nice job, Grid folks!

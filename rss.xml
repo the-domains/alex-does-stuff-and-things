@@ -4,8 +4,15 @@
         <description><![CDATA[Alex Does Stuff (and Things)]]></description>
         <link>https://thegrid.ai/alex-does-stuff-and-things/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 07:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 21:16:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-does-stuff-and-things/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's a start...]]></title>
+            <description><![CDATA[<article><h1>It's a start...</h1><p>Oh, hello, there. My name's Alex and you've reached my site. I'm still exploring the capabilities of The Grid, so this is very much a work in progress. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1563956067819ac8f541bf5f1cc405a30204392d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/alex-does-stuff-and-things/its-a-start/index.html</link>
+            <guid isPermaLink="false">1c87668d-de10-4fcb-974c-f9e5d71c1e1d</guid>
+            <pubDate>Wed, 10 Feb 2016 21:16:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shooting video!]]></title>
             <description><![CDATA[<article><h1>Shooting video!</h1><p>So today I actually did some shooting for a promotional video I helped write and edit for my friend's latest game prototype. This was interesting, since it was the first time ever that I have shot video. I have a raw blooper clip of me forgetting a line that I'd like to upload here, but I'll settle for linking to it (click here) instead. As for Grid matters, more UI updates. The "add media" button in drafts is now an icon of a landscape (photo frame, mountains). No other concrete updates that I can see. I tweaked my design guidelines again. Kind of like how it looks! My font choice (and Grid's font selection system) still needs work, though. 'Til next time, folks!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b12c7409568aab19086743470805df120b7d13a.jpg"></article>]]></description>

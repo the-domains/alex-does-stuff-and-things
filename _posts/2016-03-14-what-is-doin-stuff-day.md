@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Doin' Stuff Day is a day trip concept of mine. I'd like to regularly do some feature photography of interesting places to go and things to do in New Jersey, Eastern Pennsylvania and Southern New York. I'm based in NJ, so these locations are the most \"day-trippable.\""
-datePublished: '2016-04-02T19:39:55.100Z'
-dateModified: '2016-04-02T19:39:45.601Z'
+datePublished: '2016-04-02T19:40:30.979Z'
+dateModified: '2016-04-02T19:40:02.030Z'
 title: "What is Doin' Stuff Day?"
 author: []
 sourcePath: _posts/2016-03-14-what-is-doin-stuff-day.md

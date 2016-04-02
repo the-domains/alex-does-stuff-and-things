@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I haven't done one of these in a few days. Oh, well! Not so terrible a thing, anyway. In the interim, it looks like The Grid has instituted a \"site design change review\" page.\_"
-datePublished: '2016-04-02T17:53:01.695Z'
-dateModified: '2016-04-02T17:48:00.421Z'
+datePublished: '2016-04-02T18:10:07.995Z'
+dateModified: '2016-04-02T18:05:50.407Z'
 title: "It's an update!"
 author: []
 sourcePath: _posts/2015-12-07-its-an-update.md

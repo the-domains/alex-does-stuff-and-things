@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Thanksgiving well-wishes, Black Friday shenanigans and not much else.'
-datePublished: '2016-02-10T21:21:48.315Z'
-dateModified: '2016-02-10T21:21:46.653Z'
+description: "Happy Thanksgiving, to those who celebrate such things! I celebrate \"enjoy food with family day,\" myself.\_"
+datePublished: '2016-04-02T17:52:53.083Z'
+dateModified: '2016-04-02T17:47:17.781Z'
 title: 'New York, New York'
 author: []
 sourcePath: _posts/2015-11-28-new-york-new-york.md

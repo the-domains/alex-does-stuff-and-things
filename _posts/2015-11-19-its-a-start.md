@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: "Oh, hello, there. My name's Alex and you've reached my site. I'm still exploring the capabilities of The Grid, so this is very much a work in progress.\_"
-datePublished: '2016-04-02T17:44:53.280Z'
-dateModified: '2016-04-02T17:39:45.043Z'
+description: "Welcome to my little slice of the web. My name is Alex Cole.\_"
+datePublished: '2016-04-02T17:51:48.751Z'
+dateModified: '2016-04-02T17:45:00.411Z'
 title: 'Alex Does Stuff... and Things!'
 sourcePath: _posts/2015-11-19-its-a-start.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: alex-does-stuff-and-things/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57df9d82-83d5-4852-aa14-caaa1adf2157.jpg)

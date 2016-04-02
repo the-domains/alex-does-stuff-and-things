@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Let's try this again..."
-datePublished: '2016-02-10T21:24:26.435Z'
-dateModified: '2016-02-10T21:24:21.964Z'
+description: "Alright, take 2 on today's update post. The content guidelines are still the same, as are the options available for each of these posts while they are in draft form (minimal formatting/title/description options).\_"
+datePublished: '2016-04-02T18:00:53.633Z'
+dateModified: '2016-04-02T17:57:16.164Z'
 title: "Updates 'n' things!"
 author: []
 sourcePath: _posts/2016-01-19-updates-n-things.md
@@ -22,7 +22,7 @@ url: updates-n-things/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b38c9f01-6af1-438e-8e72-938ffbd46db8.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a077ebc4196af8695d89cc530150c2d14b2851cc.jpg)
 
 Alright, take 2 on today's update post. The content guidelines are still the same, as are the options available for each of these posts while they are in draft form (minimal formatting/title/description options). 
 

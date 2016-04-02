@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Doin' Stuff Day is a day trip concept of mine. I'd like to regularly do some feature photography of interesting places to go and things to do in New Jersey, Eastern Pennsylvania and Southern New York. I'm based in NJ, so these locations are the most \"day-trippable.\""
-datePublished: '2016-04-02T19:37:43.024Z'
-dateModified: '2016-04-02T19:37:14.314Z'
+datePublished: '2016-04-02T19:37:48.563Z'
+dateModified: '2016-04-02T19:37:43.220Z'
 title: "What is Doin' Stuff Day?"
 author: []
 sourcePath: _posts/2016-03-14-what-is-doin-stuff-day.md
@@ -38,7 +38,7 @@ Absolutely! In fact, I've made an easy form where you can make suggestions. [Cli
 
 # Where do the suggestions show up?
 
-Right now, only on the map accessible via this link: bit.ly/DoinStuff. Feel free to bookmark the link! Clicking the icons will pop up a small description box for the location.
+Right now, only on the map accessible via this link: [bit.ly/DoinStuff][5]. Feel free to bookmark the link! Clicking the icons will pop up a small description box for the location.
 
 Eventually, I'm hoping The Grid will include functionality to embed the suggestion form and the map, both right here on this page. 
 
@@ -49,3 +49,4 @@ To make sure ne'er-do-wells can't post inappropriate things freely, suggestions 
 [2]: https://www.instagram.com/al3xcole/
 [3]: bit.ly/DoinStuff
 [4]: http://goo.gl/forms/Hb4aJwegFm
+[5]: https://bit.ly/DoinStuff

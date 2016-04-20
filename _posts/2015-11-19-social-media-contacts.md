@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you're looking for me elsewhere on the internet, you can use this handy list to track me down. Mind that some of these I don't keep up to date as well as I should, but I keep an eye on all of them. Click the links below:"
-datePublished: '2016-04-20T15:57:58.133Z'
-dateModified: '2016-04-20T15:56:34.444Z'
+datePublished: '2016-04-20T15:58:41.644Z'
+dateModified: '2016-04-20T15:58:37.247Z'
 title: ''
 author: []
 sourcePath: _posts/2015-11-19-social-media-contacts.md
@@ -37,7 +37,6 @@ Pinterest: [al3xcole][4]
 Twitter:[@Al3xCole ][5]
 
 [Writing samples on NJ.com][6]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58d4ee7bc9ba28f04f311247c4edfe597b98a01e.jpg)
 
 [0]: https://www.facebook.com/AlexCPhotos/
 [1]: https://plus.google.com/u/0/+AlexanderCole88/posts

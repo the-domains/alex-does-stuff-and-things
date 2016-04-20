@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you're looking for me elsewhere on the internet, you can use this handy list to track me down. Mind that some of these I don't keep up to date as well as I should, but I keep an eye on all of them. Click the links below:"
-datePublished: '2016-04-20T15:56:25.886Z'
-dateModified: '2016-04-20T15:25:57.460Z'
+datePublished: '2016-04-20T15:57:58.133Z'
+dateModified: '2016-04-20T15:56:34.444Z'
 title: ''
 author: []
 sourcePath: _posts/2015-11-19-social-media-contacts.md

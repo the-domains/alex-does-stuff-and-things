@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "A friend invited me to go hang out at the Watchung Reservation in New Jersey. It wasn't quite a #DoingStuffDay, but it's close enough that I'm counting it."
-datePublished: '2016-05-03T02:06:06.370Z'
-dateModified: '2016-05-03T02:05:10.832Z'
+datePublished: '2016-05-03T02:11:14.025Z'
+dateModified: '2016-05-03T02:10:27.829Z'
 title: Dew on a Leaf
 author:
   - name: Alexander Cole
     url: 'http://bit.ly/1rfmPBq'
+sourcePath: _posts/2016-05-03-dew-on-a-leaf.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-dew-on-a-leaf.md
-published: true
 url: dew-on-a-leaf/index.html
 _type: Article
 
@@ -28,12 +28,13 @@ _type: Article
 
 A friend invited me to go hang out at the Watchung Reservation in New Jersey. It wasn't quite a [\#DoingStuffDay][0], but it's close enough that I'm counting it.
 
-The trails wander all over the place, so you have ample opportunity to hike as far (or not) as you desire. There's even a paved road, so you can skip the trails and get straight to the historic Deserted Village of Feltville (though, with two Private Residence signs that I saw, I'm not sure if it's truly deserted).
+You have ample opportunity to hike as far (or not) as you desire. There are many trails which meet up with or branch off of other trails. There's even a paved road, so you can skip the trails and get straight to the historic Deserted Village of Feltville (though, with two Private Residence signs that I saw, I'm not sure if it's truly deserted).
 
 I particularly enjoyed the gorge back "behind" the village, which followed a small brook. There was also the old cemetery. Despite a sign indicating two dozen individuals were interred there, only a handful of grave markers were in evidence, dating back to the late 1700s/early 1800s.
 
 There was a substantial amount of the reservation which I did not have the opportunity to see. On a second trip, I hope to check out a horse stable on the land, and explore the eastern side more thoroughly.
 
-To see a full gallery of images from the trip, click this link: 
+To see a full gallery of images from the trip, [click this link: http://bit.ly/1rfmPBq][1]
 
 [0]: https://thegrid.ai/alex-does-stuff-and-things/what-is-doin-stuff-day/
+[1]: http://bit.ly/1rfmPBq

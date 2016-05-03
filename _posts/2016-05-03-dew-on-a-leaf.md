@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "A friend invited me to go hang out at the Watchung Reservation in New Jersey. It wasn't quite a #DoingStuffDay, but it's close enough that I'm counting it."
-datePublished: '2016-05-03T02:51:46.453Z'
-dateModified: '2016-05-03T02:51:23.231Z'
+datePublished: '2016-05-03T02:56:20.666Z'
+dateModified: '2016-05-03T02:56:12.152Z'
 title: Dew on a Leaf
 author:
   - name: Alexander Cole

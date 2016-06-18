@@ -4,8 +4,15 @@
         <description><![CDATA[Alex Does Stuff (and Things)]]></description>
         <link>https://thegrid.ai/alex-does-stuff-and-things/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 00:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 00:48:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-does-stuff-and-things/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Petri Dish-Aster]]></title>
+            <description><![CDATA[<article><h1>Petri Dish-Aster</h1><p>I'm not even going to type up a big thing for this. Too excited. I'm just going to ask that you go watch it. Watch it right now. This instant. Go. Link here -- https://youtu.be/Kh2H4hiAUV4</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a53f04e1-41f6-4aef-a3c6-f7090d3eca42.png"></article>]]></description>
+            <link>https://thegrid.ai/alex-does-stuff-and-things/petri-dish-aster/index.html</link>
+            <guid isPermaLink="false">deb94785-0d32-400c-862d-fa726d8342f8</guid>
+            <pubDate>Sat, 18 Jun 2016 00:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Doin' Stuff Day: Pennsylvania 6-4-2016]]></title>
             <description><![CDATA[<p>Well, this #DoingStuffDay was entirely unplanned, but it was an interesting one. It started at the Steel Stacks in Bethlehem, PA.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/alex-does-stuff-and-things/day-four/index.html</link>
             <guid isPermaLink="false">e517ce63-3970-4c6e-b3aa-cd4723a6c7ee</guid>
             <pubDate>Sat, 02 Apr 2016 17:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seen on the High Line]]></title>
-            <description><![CDATA[<article><h1>Seen on the High Line</h1><p>When I first Published this post I had complained about how Shares appear. It's been a while, so I'm removing the critique until I can test them again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22a1e21a9e6c5f4a42b880a47509046e67fa0b8e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/alex-does-stuff-and-things/still-testin/index.html</link>
-            <guid isPermaLink="false">22721a08-ac93-46d4-9680-0687631fa5fb</guid>
-            <pubDate>Sat, 02 Apr 2016 17:52:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

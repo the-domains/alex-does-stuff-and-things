@@ -8,16 +8,16 @@ description: >-
   I'm not even going to type up a big thing for this. Too excited. I'm just
   going to ask that you go watch it. Watch it right now. This instant. Go. Link
   here --> https://youtu.be/Kh2H4hiAUV4
-datePublished: '2016-06-18T00:48:11.231Z'
-dateModified: '2016-06-18T00:48:08.513Z'
+datePublished: '2016-06-20T17:40:14.834Z'
+dateModified: '2016-06-20T17:40:01.812Z'
 title: Petri Dish-Aster
 author:
   - name: Progressively Bad Productions
     url: 'https://www.youtube.com/channel/UCKv7HNJMBY_PdqS01aoPP8A'
+sourcePath: _posts/2016-06-18-petri-dish-aster.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-18-petri-dish-aster.md
 url: petri-dish-aster/index.html
 _type: Article
 

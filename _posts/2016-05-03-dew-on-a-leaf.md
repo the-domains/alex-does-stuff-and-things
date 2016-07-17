@@ -1,25 +1,20 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: "A friend invited me to go hang out at the Watchung Reservation in New Jersey. It wasn't quite a #DoingStuffDay, but it's close enough that I'm counting it."
-datePublished: '2016-05-03T02:56:20.666Z'
-dateModified: '2016-05-03T02:56:12.152Z'
-title: Dew on a Leaf
 author:
   - name: Alexander Cole
     url: 'http://bit.ly/1rfmPBq'
-sourcePath: _posts/2016-05-03-dew-on-a-leaf.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-07-17T19:30:31.990Z'
+datePublished: '2016-07-17T19:30:52.315Z'
+description: >-
+  A friend invited me to go hang out at the Watchung Reservation in New Jersey.
+  It wasn't quite a #DoingStuffDay, but it's close enough that I'm counting it.
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+publisher: null
+title: Dew on a Leaf
 starred: false
+sourcePath: _posts/2016-05-03-dew-on-a-leaf.md
 url: dew-on-a-leaf/index.html
 _type: Article
 

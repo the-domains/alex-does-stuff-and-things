@@ -1,12 +1,12 @@
 ---
 author: []
-dateModified: '2016-07-17T19:25:11.553Z'
+dateModified: '2016-07-17T19:27:51.814Z'
+datePublished: '2016-07-17T19:28:01.588Z'
 description: Because sometimes a shout-out for my social media is necessary.
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/12cfc54e-8532-46c5-a69e-18f7205b2e1b.jpg
 title: ''
-datePublished: '2016-07-17T19:25:25.203Z'
 starred: false
 sourcePath: >-
   _posts/2016-07-17-because-sometimes-a-shout-out-for-my-social-media-is-necessa.md

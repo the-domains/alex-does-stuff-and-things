@@ -4,8 +4,22 @@
         <description><![CDATA[Alex Does Stuff (and Things)]]></description>
         <link>https://thegrid.ai/alex-does-stuff-and-things/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 19:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 19:00:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-does-stuff-and-things/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Macro Berries]]></title>
+            <description><![CDATA[<article><h1>Macro Berries</h1><p>On the 13th of July, I met up with a friend who wanted to do some photography. We spent entirely too long sitting at my house trying to decide where to go, but we eventually settled on Fort Lee Historic Park. Not going to lie; our deciding factor was its closeness to Edgewater and a favorite eatery of ours there.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7641cedfabf93842cbe9eb7ef226620/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6781e0c8-9760-4dd6-ae42-da1aa510f59c.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/alex-does-stuff-and-things/macro-berries/index.html</link>
+            <guid isPermaLink="false">b4c8d42b-b7fa-41eb-8d5f-b8fcf76fa548</guid>
+            <pubDate>Sat, 23 Jul 2016 19:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dew on a Leaf]]></title>
+            <description><![CDATA[<article><h1>Dew on a Leaf</h1><p>A friend invited me to go hang out at the Watchung Reservation in New Jersey. It wasn't quite a #DoingStuffDay, but it's close enough that I'm counting it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4da4649ab568e1e63d5e6c8780ed119639d66b4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/alex-does-stuff-and-things/dew-on-a-leaf/index.html</link>
+            <guid isPermaLink="false">7caf3a5d-7465-4b5f-a49c-a0622d8254b3</guid>
+            <pubDate>Sun, 17 Jul 2016 19:30:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12cfc54e-8532-46c5-a69e-18f7205b2e1b.jpg">]]></description>
@@ -26,13 +40,6 @@
             <link>https://thegrid.ai/alex-does-stuff-and-things/doingstuffday-pennsylvania-642016/index.html</link>
             <guid isPermaLink="false">12874268-62a5-4c41-bbe7-6bdb06c27df2</guid>
             <pubDate>Mon, 06 Jun 2016 00:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dew on a Leaf]]></title>
-            <description><![CDATA[<article><h1>Dew on a Leaf</h1><p>A friend invited me to go hang out at the Watchung Reservation in New Jersey. It wasn't quite a #DoingStuffDay, but it's close enough that I'm counting it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4da4649ab568e1e63d5e6c8780ed119639d66b4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/alex-does-stuff-and-things/dew-on-a-leaf/index.html</link>
-            <guid isPermaLink="false">7caf3a5d-7465-4b5f-a49c-a0622d8254b3</guid>
-            <pubDate>Tue, 03 May 2016 02:56:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I'm Outta Here]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/alex-does-stuff-and-things/5a317246-2240-4dfb-bf9f-2fd6a3780824/index.html</link>
             <guid isPermaLink="false">5a317246-2240-4dfb-bf9f-2fd6a3780824</guid>
             <pubDate>Sat, 02 Apr 2016 17:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Brooklyn Diner]]></title>
-            <description><![CDATA[<article><h1>The Brooklyn Diner</h1><p>Happy Thanksgiving, to those who celebrate such things! I celebrate "enjoy food with family day," myself. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b4b07066c6d2af7d4a623618beeaad78bfffdfe.jpg"></article>]]></description>
-            <link>https://thegrid.ai/alex-does-stuff-and-things/new-york-new-york/index.html</link>
-            <guid isPermaLink="false">fbceb1d2-d997-4f29-a2ab-0338d3372ce0</guid>
-            <pubDate>Sat, 02 Apr 2016 17:52:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

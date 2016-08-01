@@ -7,14 +7,14 @@ keywords: []
 description: >-
   Well, this #DoingStuffDay was entirely unplanned, but it was an interesting
   one. It started at the Steel Stacks in Bethlehem, PA.
-datePublished: '2016-07-23T19:05:13.302Z'
-dateModified: '2016-07-23T19:01:14.580Z'
+datePublished: '2016-08-01T23:06:22.629Z'
+dateModified: '2016-07-23T19:05:15.075Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-doingstuffday-pennsylvania-642016.md
+via: {}
 authors: []
 publisher: {}
-via: {}
 starred: false
 url: doingstuffday-pennsylvania-642016/index.html
 _type: Article

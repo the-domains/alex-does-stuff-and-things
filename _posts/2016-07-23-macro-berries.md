@@ -10,8 +10,8 @@ description: >-
   but we eventually settled on Fort Lee Historic Park. Not going to lie; our
   deciding factor was its closeness to Edgewater and a favorite eatery of ours
   there.
-datePublished: '2016-07-23T19:06:54.143Z'
-dateModified: '2016-07-23T19:06:34.111Z'
+datePublished: '2016-08-01T23:03:41.317Z'
+dateModified: '2016-07-23T19:06:57.155Z'
 title: Macro Berries
 author:
   - name: Alexander Cole

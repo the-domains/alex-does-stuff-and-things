@@ -1,7 +1,7 @@
 name: Alex Does Stuff (and Things)
 favicon: null
-layout_spectrum: 0.66485
-typography_spectrum: 0.7971
+layout_spectrum: 0.73679
+typography_spectrum: 0.67025
 title: Alex Does Stuff (and Things)
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#bbb5b0'
   brandStrength: 0
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []

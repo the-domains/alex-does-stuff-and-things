@@ -1,24 +1,30 @@
 ---
-keywords: []
-title: Macro Berries
-datePublished: '2016-08-01T23:09:32.707Z'
-dateModified: '2016-08-01T23:09:08.596Z'
-publisher: {}
-author:
-  - name: Alexander Cole
-    url: 'http://bit.ly/29VoJj2'
 inFeed: true
 hasPage: true
 inNav: false
+inLanguage: null
+keywords: []
 description: >-
   On the 13th of July, I met up with a friend who wanted to do some photography.
   We spent entirely too long sitting at my house trying to decide where to go,
   but we eventually settled on Fort Lee Historic Park. Not going to lie; our
   deciding factor was its closeness to Edgewater and a favorite eatery of ours
   there.
+datePublished: '2016-08-28T00:44:45.054Z'
+dateModified: '2016-08-28T00:44:33.025Z'
+title: Macro Berries
+author:
+  - name: Alexander Cole
+    url: 'http://bit.ly/29VoJj2'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-macro-berries.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: macro-berries/index.html
 _type: Article
 

@@ -1,20 +1,4 @@
-name: Alex Does Stuff (and Things)
-favicon: null
-layout_spectrum: 0.73679
 typography_spectrum: 0.67025
-title: Alex Does Stuff (and Things)
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#02489e'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.73679
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Alex Does Stuff (and Things)
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Alex Does Stuff (and Things)
 purpose: []
